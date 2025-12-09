@@ -51,19 +51,19 @@
 
 1. **克隆仓库**
 ```bash
-git clone <https://github.com/thss192/DeepSeek-Chat>
-cd deepseek-chat-app
+git clone https://github.com/thss192/DeepSeek-Chat
+cd DeepSeek-Chat
 ```
 2. **安装依赖**
 ```bash
 pip install flet requests watchdog
 ```
 3. **配置 API Key**
-> 运行应用
-> 进入"设置"标签页
-> 输入您的 DeepSeek API Key
-> 保存配置
-4. **配置 API Key**
+   - 运行应用：`python main.py`
+   - 进入"设置"标签页
+   - 输入您的 DeepSeek API Key
+   - 保存配置
+4. **启动应用**
 ```bash
 python main.py
 ```
