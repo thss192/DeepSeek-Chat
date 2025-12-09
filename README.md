@@ -1,7 +1,6 @@
-[English](#english) | [中文](#chinese)
 <a id="chinese"></a>
 # DeepSeek Chat 桌面应用
-
+[English](#english) | [中文](#chinese)
 一个功能强大的 DeepSeek AI 聊天桌面应用，集成了文件管理、多对话管理、代码编辑等实用功能。
 
 ## 🚀 功能特性
@@ -242,7 +241,6 @@ deepseek-chat-app/
 2. 迁移设置：复制 deepseek_config.json 文件
 3. 恢复数据：将备份文件放回对应位置
 
----
 提示：建议定期备份重要对话记录，特别是包含有价值内容的对话。
 
 ## 🤝 贡献指南
@@ -254,11 +252,12 @@ deepseek-chat-app/
 MIT License
 
 ---
- [中文](#chinese) | [English](#english)
+
+
 
 <a id="english"></a>
 # DeepSeek Chat Desktop Application
-
+ [中文](#chinese) | [English](#english)
 A powerful DeepSeek AI chat desktop application that integrates file management, multi-conversation management, code editing and other practical features.
 
 ## 🚀 Features
@@ -499,7 +498,6 @@ Each conversation can be independently configured:
 2. Migrate Settings: Copy deepseek_config.json file
 3. Restore Data: Place backup files back to corresponding locations
 
----
 Tip: It is recommended to regularly backup important conversation records, especially those containing valuable content.
 
 ## 🤝 Contributing
